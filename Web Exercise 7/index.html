@@ -1,0 +1,24 @@
+<!--Create input with an Id called name-input-->
+<!--change the type to text and the text inside to display enter your name-->	
+<input id="name-input" type="text" placeholder="Enter your name" />
+<!--Create a button with an Id called my button-->
+<!--the button is labelled as Click Me-->		
+<button id="my-button">Click Me</button>
+<!--Inside the script tag:-->
+<!--Both Variables mybutton and nameinput use the queryselector method-->
+<!--the queryselector searches and returns the first element within the document-->
+<!--the button is attached to the addEventListener method that connects an event "click" to an element-->
+<!--When the button is clicked it goes into the if statement-->
+<!--if the name input var has a value other than null inside-->
+<!--the alert method displays a box message with "hello" + value inside nameInput-->
+<!--end of script tag-->
+<script>
+  var myButton = document.querySelector('#my-button'); 
+  var nameInput = document.querySelector('#name-input');
+
+  myButton.addEventListener('click', function () {
+    if (nameInput.value !== '') {
+      alert('Hello ' + nameInput.value);
+    }
+  });
+</script>
