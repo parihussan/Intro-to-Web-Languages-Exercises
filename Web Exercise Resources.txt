@@ -1,0 +1,10 @@
+https://www.w3schools.com/tags/tag_hn.asp
+https://www.w3schools.com/html/html_images.asp
+https://www.w3schools.com/tags/tag_figcaption.asp
+https://www.w3schools.com/html/html_filepaths.asp
+https://www.w3schools.com/tags/tag_div.ASP#:~:text=The%20tag%20defines%20a,inside%20the%20tag!
+https://www.w3schools.com/html/html_css.asp
+https://www.w3schools.com/html/html_colors.asp
+https://www.w3schools.com/html/html_id.asp
+https://www.w3schools.com/tags/tag_script.asp
+https://www.w3schools.com/jsref/met_win_alert.asp
